@@ -6,9 +6,8 @@
 
 <div align="center">
 <a href="https://www.infolux.com.br">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucvalentimdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvalentimdev&layout=compact&langs_count=7&theme=dark"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucvalentimdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvalentimdev&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 

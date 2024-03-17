@@ -1,9 +1,9 @@
 ### Olá, Sou Lucas Valentim, software developer e empreendedor na área da informática 👋
 
-- 🔭 Trabalhando com desenvolvimento Delphi e C#
+- 🔭 Trabalhando com desenvolvimento nas linguagens Delphi e C#
 - 🔭 Ágil Scrum
 - 🌱 Pós-Graduando em Desenvolvimento Back-end
-- 🌱 Aprofundando em SQL
+- 🌱 Aprofundando em Desenvolvimento Web
 - 📫 Contate-me pelo e-mail contato@infolux.com.br
 
 <div align="center">

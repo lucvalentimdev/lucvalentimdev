@@ -4,7 +4,7 @@
 - 🔭 Ágil Scrum
 - 🌱 Pós-Graduando em Desenvolvimento Back-end
 - 🌱 Estudando Desenvolvimento Web (HTML, CSS, JavaScript e PHP)
-- 📫 Contate-me pelo e-mail contato@infolux.com.br
+- 📫 Contate-me pelo e-mail lucasvalentim.dev@iatrix.com.br
 
 <div aling="left">
 <!--<a href="https://www.infolux.com.br"> <br>

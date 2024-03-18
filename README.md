@@ -7,10 +7,9 @@
 - 📫 Contate-me pelo e-mail contato@infolux.com.br
 
 <div align="center">
-<a href="https://www.infolux.com.br">
+<a href="https://www.infolux.com.br"> <br>
 <!--<img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucvalentimdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-
-<img height="140em" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvalentimdev&layout=compact&langs_count=7&theme=dark"/>
+<img height="140em" aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucvalentimdev&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 

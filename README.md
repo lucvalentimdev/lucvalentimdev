@@ -3,7 +3,7 @@
 - 🔭 Trabalhando com desenvolvimento nas linguagens Delphi e C#
 - 🔭 Ágil Scrum
 - 🌱 Pós-Graduando em Desenvolvimento Back-end
-- 🌱 Aprofundando em Desenvolvimento Web
+- 🌱 Estudando Desenvolvimento Web
 - 📫 Contate-me pelo e-mail contato@infolux.com.br
 
 <div align="center">

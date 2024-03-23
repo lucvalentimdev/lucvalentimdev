@@ -16,9 +16,9 @@
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Luc-Delphi" height="40" width="50" src="https://raw.githubusercontent.com/lucvalentimdev/lucvalentimdev/main/icons_luc/icons8-delphi-ide.svg">
+<img align="center" alt="Luc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Luc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Luc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Luc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Luc-Swift" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg">
 <img align="center" alt="Luc-MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Luc-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">

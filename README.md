@@ -1,7 +1,7 @@
 ### Olá, Sou Lucas Valentim, software developer e empreendedor na área da informática 👋
 
 - 🔭 Trabalhando com desenvolvimento nas linguagens Delphi e C#
-- 🔭 Ágil Scrum
+- 🔭 Profissional Scrum
 - 🌱 Pós-Graduando em Desenvolvimento Back-end
 - 🌱 Estudando Desenvolvimento Web (HTML, CSS, JavaScript e PHP)
 - 📫 Contate-me pelo e-mail lucasvalentim.dev@iatrix.com.br

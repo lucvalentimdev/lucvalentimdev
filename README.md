@@ -4,7 +4,7 @@
 - 🔭 Profissional Scrum
 - 🌱 Pós Graduado em Análise e Desenvolvimento de Sistemas
 - 🌱 Pós Graduado em Inteligencia Artificial e Machine learning
-- 📫 Contate-me pelo e-mail lucasvalentim.dev@iatrix.com.br
+- 📫 Contate-me pelo e-mail gpadmtilucas@gmail.com
 
 <div aling="left">
 <!--<a href="https://www.infolux.com.br"> <br>

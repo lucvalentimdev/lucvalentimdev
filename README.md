@@ -2,8 +2,8 @@
 
 - 🔭 Trabalhando com desenvolvimento nas linguagens Delphi e C#
 - 🔭 Profissional Scrum
-- 🌱 Pós-Graduando em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Desenvolvimento Web (HTML, CSS, JavaScript e PHP)
+- 🌱 Pós Graduado em Análise e Desenvolvimento de Sistemas
+- 🌱 Pós Graduado em Inteligencia Artificial e Machine learning
 - 📫 Contate-me pelo e-mail lucasvalentim.dev@iatrix.com.br
 
 <div aling="left">
